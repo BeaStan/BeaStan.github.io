@@ -36,7 +36,7 @@ h1, h2{
 }
 
 th, h1, h2{
-    font-family: "Roboto";
+    font-family: "Roboto Mono";
 }
 
 th{
@@ -44,7 +44,7 @@ th{
 }
 
 td {
-    font-family: "Roboto";
+    font-family: "Roboto Mono";
     font-size: 125%;
     border: 1px solid black;
     text-align: center;
